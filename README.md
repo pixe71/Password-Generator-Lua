@@ -1,5 +1,7 @@
 # 🔐 Password Generator – Lua
 
+[![Lua](https://img.shields.io/badge/Lua-Language-blue)](https://www.lua.org/manual/5.4/)
+
 A simple **Lua** script that generates a random secure password using letters, digits, and special characters.
 
 ---
